@@ -1,0 +1,15 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Sensitive files
+*.tfvars
+*.pem
+*.key
+
+# Logs & temp
+*.log
+
+# OS files
+.DS_Store
